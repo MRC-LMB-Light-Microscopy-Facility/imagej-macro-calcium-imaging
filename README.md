@@ -1,4 +1,5 @@
 # Quantification of calcium imaging signal
+[![DOI](https://zenodo.org/badge/908933487.svg)](https://doi.org/10.5281/zenodo.14562106)
 
 This macro aims at measuring the (F-F0)/F0 where F is the average fluorescence signal over time for predefine region of interest and F0 is the baseline.
 
