@@ -20,6 +20,8 @@ Download the macro and open it in Fiji with the script editor.
 
 ## Usage
 
+![image](https://github.com/user-attachments/assets/85e0c8a1-0425-4b05-9840-4fb3324e37bd)
+
 1. [optional] Open images and draw ROIs and add them to the ROI manager
 2. [optional] Save the ROI with the same name than the image but with the extensin _ROIset.zip or _ROIset.roi in the same folder
 3. Close images, open the macro and press run to process a single file or batch to process several file.
@@ -72,3 +74,5 @@ At the end of the process, you double click on the file names to open the result
 
 ## Testing
 A test code is available when typing test as file name. This will generate and image and ROIs then run the code on it.
+
+![image](https://github.com/user-attachments/assets/e3f260b0-0628-4d8e-bcf7-e2ce63f619c9)
